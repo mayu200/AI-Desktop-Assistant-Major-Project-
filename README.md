@@ -1,5 +1,5 @@
 # AI-Desktop-Assistant-Major-Project-
-
+Drive Link:https://drive.google.com/drive/folders/1lpTszbKjjBNei6l0xb-_-buqJWRXr5KV?usp=drive_link
 # Abstract
 A human-like AI desktop assistant is a multifunctional system capable of executing tasks and delivering services in response to user-issued vocal commands.
 This dynamic interaction involves speech pattern recognition and responsive synthetic speech generation. Prominent instances include Apple Inc.’s ’Siri,’ which
